@@ -1,4 +1,4 @@
-#Model - O que vem do banco de dados (BD)
+# Model - O que vem do banco de dados (BD)
 def model_usuario():
     usuario_BD = 'joao'
     return usuario_BD
